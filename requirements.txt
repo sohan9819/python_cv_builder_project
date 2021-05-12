@@ -1,0 +1,4 @@
+comtypes==1.1.10
+lxml==4.6.3
+pypiwin32==223
+pywin32==300
